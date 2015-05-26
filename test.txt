@@ -9,9 +9,4 @@ issue 2 # 3
 hotfix2 #1
 try a rebase mofo
 
-<<<<<<< HEAD
-=======
-hotfix2 #1
 
-hotfix 2 #2
->>>>>>> no message
