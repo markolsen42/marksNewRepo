@@ -1,8 +1,18 @@
 first line
+<<<<<<< HEAD
+=======
+
+hotfix2 #1
+
+hotfix 2 #2
+>>>>>>> 74b4b796da602ebad4b32fb2af7ea9b65ad5e9cd
 hey issue2 #1
 
 issue2 # 2
+  
+issue 2 # 3
 
+<<<<<<< HEAD
 issue 2 # 3
 
 
@@ -14,3 +24,6 @@ try a rebase mofo
 issue3
 
 make a little change here
+=======
+issue3
+>>>>>>> 74b4b796da602ebad4b32fb2af7ea9b65ad5e9cd
